@@ -1,1 +1,2 @@
 this is first string
+then i add second string
